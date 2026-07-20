@@ -15,7 +15,7 @@
 
 ## 💙 Sobre mim
 
-🫐 Estudante de **Logica de programção**
+🫐 Estudante de **Logica de programção e desenvolvimento de Web com IA**
 
 💻 Aprendendo:
 
